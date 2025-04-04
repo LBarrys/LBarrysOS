@@ -1,0 +1,23 @@
+#colors
+background = 212121
+foreground = ffffff
+palette = 0=000000
+palette = 1=EF5350
+palette = 2=4CAF50
+palette = 3=E9AD0C
+palette = 4=1D99F3
+palette = 5=AB47BC
+palette = 6=33C7DE
+palette = 7=FFFFFF
+
+#window
+window-width = 98
+window-height = 32
+
+#font
+font-family = JetBrains Mono
+font-size = 10
+
+#cursor
+cursor-style = bar
+cursor-style-blink = true
